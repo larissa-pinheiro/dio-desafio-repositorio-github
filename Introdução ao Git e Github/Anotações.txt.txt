@@ -1,0 +1,10 @@
+- Link para dowload do Git: https://git-scm.com/downloads
+- O Git Bash é um terminal estendido para otimizar o uso do Git
+
+- Alguns comandos:
+	git clone +link-do-repositorio
+		- importa o repositório para a máquina
+	cd +nome-do-repositorio
+		- entra no repositório
+	git status
+		- define em qual branch estou
